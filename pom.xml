@@ -9,10 +9,10 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.swiftaireng.backend.apirest</groupId>
-	<artifactId>swiftaireng-backend-apirest</artifactId>
+	<groupId>com.swiftaireng.heroku.apirest</groupId>
+	<artifactId>swiftaireng-heroku-apirest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>swiftaireng-backend-apirest</name>
+	<name>swiftaireng-heroku-apirest</name>
 	<description>Web app for Swiftair</description>
 
 	<properties>
@@ -94,5 +94,4 @@
 		</plugins>
 	</build>
 
-	<packaging>war</packaging>
 </project>
